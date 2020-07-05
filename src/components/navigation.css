@@ -1,0 +1,26 @@
+.nav-item {
+  text-transform: uppercase;
+  transition: 0.5s ease;
+}
+
+.nav-item:hover {
+  text-transform: uppercase;
+  background-color: #48a899;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  transform: scale(1.1);
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #fff;
+}
+
+.nav-link:hover {
+  color: #fff;
+}
